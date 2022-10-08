@@ -9,4 +9,5 @@
 ### Day 2: October 8, 2022
 
 **Today's Progress**: I read the las 10 chapters of HTML & CSS book by Jon Duckett. I also solved the examples of the book
+
 **link to work**:[Empty Cells](https://github.com/IQRA-ABDI/100DaysOfFilanTechCode/tree/main/HTML_CSS)

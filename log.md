@@ -15,10 +15,14 @@
 
 ### Day 3: October 9, 2022
 
-**Today's Progress**: i solved the Learn HTML by building a Cafe Menu app ,Color Markers, Registration Form and Survey Form on Freecodecamp's Responsive web design challenges.
+**Today's Progress**: today i did a Cafe Menu app ,Color Markers, Registration Form and Survey Form on Freecodecamp's Responsive web design challenges.
 
 **link to work**:
+
 [Survey Form](https://github.com/IQRA-ABDI/100DaysOfFilanTechCode/blob/main/HTML_CSS/Survey_Form.html)
+
 [Registration Form](https://github.com/IQRA-ABDI/100DaysOfFilanTechCode/blob/main/HTML_CSS/Registration_Form.html)
+
 [Cafe Menu](https://github.com/IQRA-ABDI/100DaysOfFilanTechCode/blob/main/HTML_CSS/Cafe.Menu.html)
+
 [Color Markers](https://github.com/IQRA-ABDI/100DaysOfFilanTechCode/blob/main/HTML_CSS/Color_Markers.html)

@@ -26,3 +26,15 @@
 [Cafe Menu](https://github.com/IQRA-ABDI/100DaysOfFilanTechCode/blob/main/HTML_CSS/Cafe.Menu.html)
 
 [Color Markers](https://github.com/IQRA-ABDI/100DaysOfFilanTechCode/blob/main/HTML_CSS/Color_Markers.html)
+
+### Day 4: October 10, 2022
+
+**Today's Progress**: today i did a Photo Gallery  and Rothko Painting Form on Freecodecamp's Responsive web design challenges.
+
+**link to work**: 
+
+[Photo Gallery](https://github.com/IQRA-ABDI/100DaysOfFilanTechCode/blob/main/HTML_CSS/PhotoGallery)
+
+[Rothko Painting](https://github.com/IQRA-ABDI/100DaysOfFilanTechCode/blob/main/HTML_CSS/RothkoPainting)
+
+

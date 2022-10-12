@@ -47,4 +47,15 @@
 [Nutrition Label](https://github.com/IQRA-ABDI/100DaysOfFilanTechCode/blob/main/HTML_CSS/NutritionLabel.html)
 
 
+### Day 6: October 12, 2022
+
+**Today's Progress**: today i did a Quiz App And Tribute Page on Freecodecamp's Responsive web design challenges.
+
+**link to work**: 
+
+[Quiz App](https://github.com/IQRA-ABDI/100DaysOfFilanTechCode/blob/main/HTML_CSS/QuzApp.html)
+
+[Tribute Page](https://github.com/IQRA-ABDI/100DaysOfFilanTechCode/blob/main/HTML_CSS/TributeProject.html)
+
+
 

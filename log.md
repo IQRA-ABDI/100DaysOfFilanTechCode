@@ -58,4 +58,11 @@
 [Tribute Page](https://github.com/IQRA-ABDI/100DaysOfFilanTechCode/blob/main/HTML_CSS/TributeProject.html)
 
 
+### Day 7: October 13, 2022
+
+**Today's Progress**: i did a Technical Documentation page on Freecodecamp's Responsive web design challenges.
+
+**link to work** : 
+
+[Technical Documentation](https://github.com/IQRA-ABDI/100DaysOfFilanTechCode/tree/main/HTML_CSS)
 

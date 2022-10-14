@@ -66,3 +66,13 @@
 
 [Technical Documentation](https://github.com/IQRA-ABDI/100DaysOfFilanTechCode/tree/main/HTML_CSS)
 
+
+
+### Day 8: October 14, 2022
+
+**Today's Progress**: i did a product Land Page on Freecodecamp's Responsive web design challenges.
+
+**link to work** : 
+
+[Product Land](https://github.com/IQRA-ABDI/100DaysOfFilanTechCode/blob/main/HTML_CSS/ProductLand)
+

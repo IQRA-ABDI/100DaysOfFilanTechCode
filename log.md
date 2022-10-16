@@ -86,3 +86,12 @@
 
 [personal portfolio webpage](https://github.com/IQRA-ABDI/100DaysOfFilanTechCode/blob/main/HTML_CSS/Portfolio_Webpage.htmld)
 
+
+
+### Day 10: October 16, 2022
+
+**Today's Progress**: i did a project on my personal try.
+
+**link to work** : 
+
+[personal project](https://github.com/IQRA-ABDI/100DaysOfFilanTechCode/blob/main/HTML_CSS/project.html)
